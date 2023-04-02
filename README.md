@@ -7,7 +7,7 @@
 
 ## SQL + EIS буюу Enterprise Innovation Studio (aka. Platform)
 * Дата-ны тухай — What is data categories?
-  * MRTA
+  * MRTA https://booksite.elsevier.com/9780123743695/10steps_DataCategories.pdf
 * Өгөгдлийн баруун этгээдэд зорчсон тэмдэглэл — Adventure of "Input to SQL" on EIS
 
 ## SQL Developer гэгчийн хүч чадал
@@ -28,16 +28,24 @@
 * Commenting
 * Explain Plan
 
-## Query-тэй наадах нь — Play with SQL query
+## Query-г хашраах аргууд — Empower the query
   * ANSI/Oracle JOIN 
-  * Insert bulk data
-  * UPDATE -> MERGE
-  * Timestamp or Restore point
-  * Cool usage of WITH AS
   * Advanced Subquery
+  * Cool usage of WITH AS
   * RANK, DENSE_RANK, ROWNUM usage
   * PIVOT / UNPIVOT
   * ALIAS usage
+  * Analytical query (Windowing, Aggregiating)
+  * 
+
+
+## Өгөгдөл хашраах нь - Play with data
+
+  * Bulk data
+  * Update or Merge?
+  * Risk mitigation
+  * 
+
   
 
 ## Conclusion - Дүгнэлт
@@ -45,6 +53,11 @@
 * Let's have experiment on configuration or play game with setting
 * Let's dig deeper
 * Sharing is caring
+
+
+### Гэрийн даалгавар - Home work
+ * Finish these - https://www.oracletutorial.com/oracle-basics/
+ * 
 
 ### Want more?
   Jeff Smith
