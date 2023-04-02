@@ -67,15 +67,16 @@
  * Contribution on community
 
 ### More info
+
+  Oracle tutorial
+  https://www.oracletutorial.com/oracle-basics/
+  
   Jeff Smith
   https://www.thatjeffsmith.com/ - Github, Stackoverflow, Youtube, Blog
   
   Stack overflow Oracle
   https://stackoverflow.com/questions/tagged/oracle
-  
-  Oracle tutorial
-  https://www.oracletutorial.com/oracle-basics/
-  
+ 
   Oracle Dev Gym
   https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html
   
@@ -86,6 +87,5 @@
 Queries
 https://dbfiddle.uk/
 
-
-
+---
 **If you liked this, cup of coffee will do ☕😉**
