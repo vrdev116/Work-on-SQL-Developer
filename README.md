@@ -95,4 +95,7 @@
 Queries
 https://dbfiddle.uk/k26Sg7fD
 
-These text written by VR116. If U 💚 this, Give me cup of coffee 
+
+
+Written by VR116. If U 💚 this, buy me a cup of ☕
+
