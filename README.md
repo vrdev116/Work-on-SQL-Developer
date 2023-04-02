@@ -1,29 +1,27 @@
 # SQL Developer дээр үр дүнтэй ажиллах тухай
 
-
 # 🟡 SECTION ONE
 
-## Ер нь яагаад? - Why?
-  * SQL гэж юу вэ? Яагаад ашигладаг вэ?
-  * Тэгвэл яагаад Oracle гэж?
-  * SQL Developer л ашиглах юм уу?
+## Start with why
+  * SQL
+  * Oracle
+  * SQL Developer
 
-## SQL + EIS буюу Enterprise Innovation Studio (aka. Platform)
-* Өгөгдөл буюу дата-ны тухай — What is data categories?
-  * MRTA
-* Өгөгдлийн баруун этгээдэд зорчсон тэмдэглэл — Adventure of "Input to SQL" on EIS
+## SQL + EIS (aka. Platform)
+* Өгөгдлийн төрөл (MRTA)
+* Оролтын утгаас жагсаалт хүртэл — "Input to SQL" on EIS
 
 
 # 🟢 SECTION TWO
 
-## SQL Developer гэгчийн хүч чадал
-  ### a. Үндсэн боломжууд
+## SQL Developer feature
+  ### a. Үндсэн 
   * Interface
   * CLI
   * Worksheet
   * Other features
 
-  ### b. Нэмэлт боломжууд
+  ### b. Нэмэлт 
 * Interface customization
 * Shortcut keys
 * Show object
@@ -42,7 +40,7 @@
 
 # 🟣 SECTION THREE
 
-## Query-г хашраах аргууд — Empower the query
+## Query бичих
   * ANSI/Oracle JOIN 
   * Subquery's subquery
   * Multiple WITH AS
@@ -54,7 +52,7 @@
   * When WHERE?
   * Read EXPLAIN PLAN
 
-## Өгөгдөл хашраах нь - Play with data
+## Өгөгдөл дээр ажиллах
   * Bulk data
   * Update or Merge?
   * Risk mitigation
@@ -62,18 +60,13 @@
   
 # 🔴 SECTION FOUR
 
-## Conclusion of LET'S - Ингэцгээе, тэгцгээе
-* Be open and curious
-* Have experiment on configuration or play game with setting
-* Dig deeper
-* Sharing is caring
-
+## Дүгнэлт
 
 ### Гэрийн даалгавар - Homework time
- * Finish him, Fatality! - https://www.oracletutorial.com/oracle-basics/
- * Let's talk about certification
- * Guide for Juniors - Write your query experience on CV/Resume
- * Contribution on VR Community
+ * Cover basic - https://www.oracletutorial.com/oracle-basics/
+ * Talk about certification
+ * Experience on paper
+ * Contribution on community
 
 ### Want more?
   Jeff Smith
