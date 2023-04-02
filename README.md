@@ -10,7 +10,7 @@
 
 ## SQL + EIS буюу Enterprise Innovation Studio (aka. Platform)
 * Дата-ны тухай — What is data categories?
-  * MRTA https://booksite.elsevier.com/9780123743695/10steps_DataCategories.pdf
+  * MRTA
 * Өгөгдлийн баруун этгээдэд зорчсон тэмдэглэл — Adventure of "Input to SQL" on EIS
 
 
@@ -39,16 +39,17 @@
 
 ## Query-г хашраах аргууд — Empower the query
   * ANSI/Oracle JOIN 
-  * Advanced Subquery
-  * Cool usage of WITH AS
-  * RANK, DENSE_RANK, ROWNUM usage
-  * PIVOT / UNPIVOT
-  * ALIAS usage
+  * Subquery's subquery
+  * Multiple WITH AS
+  * Uncommon usage of ALIAS
+  * Advanced usage of ROWNUM
+  * Hierarchical query
   * Analytical query (Windowing, Aggregiating)
-  * 
+  * Case of UNPIVOT
+  * When WHERE?
+  * Read EXPLAIN PLAN
 
 ## Өгөгдөл хашраах нь - Play with data
-
   * Bulk data
   * Update or Merge?
   * Risk mitigation
@@ -57,16 +58,17 @@
   
 # 🟣 SECTION FOUR
 
-## Conclusion - Дүгнэлт
-* Let's be open and curious
-* Let's have experiment on configuration or play game with setting
-* Let's dig deeper
+## Conclusion of LET'S - Ингэцгээе, тэгцгээе
+* Be open and curious
+* Have experiment on configuration or play game with setting
+* Dig deeper
 * Sharing is caring
 
 
 ### Гэрийн даалгавар - Home work
  * Finish these - https://www.oracletutorial.com/oracle-basics/
- * 
+ * Let's talk about certification
+ * Write your query experience on CV/Resume
 
 ### Want more?
   Jeff Smith
