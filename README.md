@@ -1,9 +1,9 @@
 # SQL Developer дээр үр дүнтэй ажиллах тухай
 
 ## SQL Developer ашиглах шалтгаан
-  ### a. SQL гэж юу вэ? Яагаад ашигладаг вэ?
-  ### b. Тэгвэл яагаад Oracle SQL гэж?
-  ### c. SQL Developer л ашиглах юм уу?
+  * SQL гэж юу вэ? Яагаад ашигладаг вэ?
+  * Тэгвэл яагаад Oracle SQL гэж?
+  * SQL Developer л ашиглах юм уу?
 
 ## SQL + EIS буюу Enterprise Innovation Studio (aka. Platform)
 * Дата-ны тухай — What is data categories?
@@ -13,7 +13,7 @@
   * Analytical (OLAP/DW)
 * Өгөгдлийн баруун этгээдэд зорчсон тэмдэглэл — Adventure of "Input to SQL"
 
-## SQL Developer гээчийн хүч чадал
+## SQL Developer гэгчийн хүч чадал
   ### a. Үндсэн боломжууд
   ### b. Нэмэлт боломжууд
 * Interface customization
