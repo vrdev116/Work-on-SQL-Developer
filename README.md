@@ -7,16 +7,17 @@
   b. Тэгвэл яагаад Oracle SQL гэж?
   c. SQL Developer л ашиглах юм уу?
 
-# SQL on Enterprise Innovation Studio (aka. Platform)
+# SQL + EIS буюу Enterprise Innovation Studio (aka. Platform)
 * Дата-ны тухай — What is data categories?
-  ** Master (Ref)
-  ** Transaction
-  ** Analytical Data (OLAP/DW)
+  * Master
+  * Reference
+  * Transaction
+  * Analytical (OLAP/DW)
 * Өгөгдлийн баруун этгээдэд зорчсон тэмдэглэл — Adventure of "Input to SQL"
 
 # SQL Developer гээчийн хүч чадал
-  a. Үндсэн боломжууд
-  b. Нэмэлт боломжууд
+  ## a. Үндсэн боломжууд
+  ## b. Нэмэлт боломжууд
 * Interface customization
 * Shortcut keys
 * Show object
