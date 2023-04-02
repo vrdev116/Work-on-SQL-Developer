@@ -1,7 +1,7 @@
 # SQL Developer дээр үр дүнтэй ажиллах тухай
 
 
-# SECTION ONE
+# 🟢 SECTION ONE
 
 ## Ер нь яагаад? - Why?
   * SQL гэж юу вэ? Яагаад ашигладаг вэ?
@@ -14,7 +14,7 @@
 * Өгөгдлийн баруун этгээдэд зорчсон тэмдэглэл — Adventure of "Input to SQL" on EIS
 
 
-# SECTION TWO
+# 🔵 SECTION TWO
 
 ## SQL Developer гэгчийн хүч чадал
   ### a. Үндсэн боломжууд
@@ -35,7 +35,7 @@
 * Explain Plan
 
 
-# SECTION THREE
+# 🔴 SECTION THREE
 
 ## Query-г хашраах аргууд — Empower the query
   * ANSI/Oracle JOIN 
@@ -55,7 +55,7 @@
   * 
 
   
-# SECTION FOUR
+# 🟣 SECTION FOUR
 
 ## Conclusion - Дүгнэлт
 * Let's be open and curious
