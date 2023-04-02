@@ -97,7 +97,6 @@ https://dbfiddle.uk/k26Sg7fD
 
 
 
-Written by VR116. If you enjoy the content, please consider supporting what I do. Thank you.
-
-![image](https://user-images.githubusercontent.com/89723152/229338214-31c6d8b0-56b6-4166-acfb-938936818208.png)
+Written by VR116. If you enjoy this
+![image](https://user-images.githubusercontent.com/89723152/229338261-9ed50fb4-3afe-45b8-bc0e-5996fc4a47c8.png)
 
