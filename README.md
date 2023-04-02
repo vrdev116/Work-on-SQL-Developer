@@ -1,5 +1,8 @@
 # SQL Developer дээр үр дүнтэй ажиллах тухай
 
+
+# SECTION ONE
+
 ## Ер нь яагаад? - Why?
   * SQL гэж юу вэ? Яагаад ашигладаг вэ?
   * Тэгвэл яагаад Oracle гэж?
@@ -9,6 +12,9 @@
 * Дата-ны тухай — What is data categories?
   * MRTA https://booksite.elsevier.com/9780123743695/10steps_DataCategories.pdf
 * Өгөгдлийн баруун этгээдэд зорчсон тэмдэглэл — Adventure of "Input to SQL" on EIS
+
+
+# SECTION TWO
 
 ## SQL Developer гэгчийн хүч чадал
   ### a. Үндсэн боломжууд
@@ -28,6 +34,9 @@
 * Commenting
 * Explain Plan
 
+
+# SECTION THREE
+
 ## Query-г хашраах аргууд — Empower the query
   * ANSI/Oracle JOIN 
   * Advanced Subquery
@@ -38,7 +47,6 @@
   * Analytical query (Windowing, Aggregiating)
   * 
 
-
 ## Өгөгдөл хашраах нь - Play with data
 
   * Bulk data
@@ -47,6 +55,7 @@
   * 
 
   
+# SECTION FOUR
 
 ## Conclusion - Дүгнэлт
 * Let's be open and curious
