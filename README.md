@@ -1,6 +1,6 @@
 # SQL-Developer-VR-Guide
 
-##SQL Developer дээр үр дүнтэй ажиллах тухай
+## SQL Developer дээр үр дүнтэй ажиллах тухай
 
 # SQL Developer ашиглах шалтгаан
   a. SQL гэж юу вэ? Яагаад ашигладаг вэ?
@@ -12,7 +12,7 @@
   ** Master (Ref)
   ** Transaction
   ** Analytical Data (OLAP/DW)
-* Оролтын утгаас SQL хүрэх адал явдал — Adventure of "Input to SQL"
+* Өгөгдлийн баруун этгээдэд зорчсон тэмдэглэл — Adventure of "Input to SQL"
 
 # SQL Developer гээчийн хүч чадал
   a. Үндсэн боломжууд
