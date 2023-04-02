@@ -1,5 +1,3 @@
-# EIS + SQL Developer
-
 # 🟡 SECTION ONE
 
 ## Start with why
