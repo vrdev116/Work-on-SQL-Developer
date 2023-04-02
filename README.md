@@ -66,9 +66,10 @@
 
 
 ### Гэрийн даалгавар - Home work
- * Finish these - https://www.oracletutorial.com/oracle-basics/
+ * Finish him, Fatality! - https://www.oracletutorial.com/oracle-basics/
  * Let's talk about certification
- * Write your query experience on CV/Resume
+ * Guide for Juniors - Write your query experience on CV/Resume
+ * Contribution on VR Community
 
 ### Want more?
   Jeff Smith
