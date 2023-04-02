@@ -2,14 +2,19 @@
 
 ##SQL Developer дээр үр дүнтэй ажиллах тухай
 
-# 1. SQL Developer ашиглах шалтгаан
+# SQL Developer ашиглах шалтгаан
   a. SQL гэж юу вэ? Яагаад ашигладаг вэ?
   b. Тэгвэл яагаад Oracle SQL гэж?
   c. SQL Developer л ашиглах юм уу?
 
-# 2. 
+# SQL on Enterprise Innovation Studio (aka. Platform)
+* Дата-ны тухай — What is data categories?
+  ** Master (Ref)
+  ** Transaction
+  ** Analytical Data (OLAP/DW)
+* Оролтын утгаас SQL хүрэх адал явдал — Adventure of "Input to SQL"
 
-# 2. SQL Developer гэгчийн хүч чадал
+# SQL Developer гээчийн хүч чадал
   a. Үндсэн боломжууд
   b. Нэмэлт боломжууд
 * Interface customization
@@ -27,7 +32,7 @@
 * Commenting
 * Explain Plan
 
-# 3. Work with SQL query
+# Query-тэй наадах нь — Play with SQL query
   a. ANSI/Oracle JOIN 
   b. Insert bulk data
   c. UPDATE -> MERGE
@@ -62,3 +67,4 @@
   https://docs.oracle.com/en/database/oracle/oracle-database/index.html
   
   
+Example: https://dbfiddle.uk/k26Sg7fD
