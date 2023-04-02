@@ -9,7 +9,7 @@
   * SQL Developer л ашиглах юм уу?
 
 ## SQL + EIS буюу Enterprise Innovation Studio (aka. Platform)
-* Дата-ны тухай — What is data categories?
+* Өгөгдөл буюу дата-ны тухай — What is data categories?
   * MRTA
 * Өгөгдлийн баруун этгээдэд зорчсон тэмдэглэл — Adventure of "Input to SQL" on EIS
 
@@ -18,6 +18,11 @@
 
 ## SQL Developer гэгчийн хүч чадал
   ### a. Үндсэн боломжууд
+  * Interface
+  * CLI
+  * Worksheet
+  * Other features
+
   ### b. Нэмэлт боломжууд
 * Interface customization
 * Shortcut keys
@@ -53,7 +58,6 @@
   * Bulk data
   * Update or Merge?
   * Risk mitigation
-  * 
 
   
 # 🟣 SECTION FOUR
