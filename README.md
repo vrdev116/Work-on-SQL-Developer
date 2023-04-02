@@ -60,10 +60,10 @@
 
 ## Дүгнэлт
 
-### Гэрийн даалгавар - Homework time
+### HW
  * Cover basic - https://www.oracletutorial.com/oracle-basics/
- * Talk about certification
  * Experience on paper
+ * Talk about certification
  * Contribution on community
 
 ### More info
