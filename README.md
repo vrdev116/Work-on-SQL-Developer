@@ -98,4 +98,4 @@ https://dbfiddle.uk/k26Sg7fD
 
 
 
-**Presented by PD116. If you liked this, PD116 loves a cup of coffee 😉**
+**If you liked this, consider a cup of coffee ☕😉**
