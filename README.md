@@ -68,7 +68,7 @@
  * Experience on paper
  * Contribution on community
 
-### Want more?
+### More info
   Jeff Smith
   https://www.thatjeffsmith.com/ - Github, Stackoverflow, Youtube, Blog
   
@@ -86,7 +86,7 @@
   
   
 Queries
-https://dbfiddle.uk/7Jxju0AY
+https://dbfiddle.uk/
 
 
 
