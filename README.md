@@ -1,4 +1,4 @@
-# SQL Developer дээр үр дүнтэй ажиллах тухай
+# EIS + SQL Developer
 
 # 🟡 SECTION ONE
 
