@@ -1,11 +1,11 @@
 # SQL Developer дээр үр дүнтэй ажиллах тухай
 
-# SQL Developer ашиглах шалтгаан
-  ## a. SQL гэж юу вэ? Яагаад ашигладаг вэ?
-  ## b. Тэгвэл яагаад Oracle SQL гэж?
-  ## c. SQL Developer л ашиглах юм уу?
+## SQL Developer ашиглах шалтгаан
+  ### a. SQL гэж юу вэ? Яагаад ашигладаг вэ?
+  ### b. Тэгвэл яагаад Oracle SQL гэж?
+  ### c. SQL Developer л ашиглах юм уу?
 
-# SQL + EIS буюу Enterprise Innovation Studio (aka. Platform)
+## SQL + EIS буюу Enterprise Innovation Studio (aka. Platform)
 * Дата-ны тухай — What is data categories?
   * Master
   * Reference
@@ -13,9 +13,9 @@
   * Analytical (OLAP/DW)
 * Өгөгдлийн баруун этгээдэд зорчсон тэмдэглэл — Adventure of "Input to SQL"
 
-# SQL Developer гээчийн хүч чадал
-  ## a. Үндсэн боломжууд
-  ## b. Нэмэлт боломжууд
+## SQL Developer гээчийн хүч чадал
+  ### a. Үндсэн боломжууд
+  ### b. Нэмэлт боломжууд
 * Interface customization
 * Shortcut keys
 * Show object
@@ -31,7 +31,7 @@
 * Commenting
 * Explain Plan
 
-# Query-тэй наадах нь — Play with SQL query
+## Query-тэй наадах нь — Play with SQL query
   * ANSI/Oracle JOIN 
   * Insert bulk data
   * UPDATE -> MERGE
@@ -43,13 +43,13 @@
   * ALIAS usage
   
 
-# Conclusion - Дүгнэлт
+## Conclusion - Дүгнэлт
 * Let's be open and curious
 * Let's have experiment on configuration or play game with setting
 * Let's dig deeper
 * Sharing is caring
 
-# Want more?
+### Want more?
   Jeff Smith
   https://www.thatjeffsmith.com/ - Github, Stackoverflow, Youtube, Blog
   
@@ -66,4 +66,4 @@
   https://docs.oracle.com/en/database/oracle/oracle-database/index.html
   
   
-Example: https://dbfiddle.uk/k26Sg7fD
+  Example: https://dbfiddle.uk/k26Sg7fD
