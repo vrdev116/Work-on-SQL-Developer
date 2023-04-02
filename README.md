@@ -69,7 +69,7 @@
 * Sharing is caring
 
 
-### Гэрийн даалгавар - Home work
+### Гэрийн даалгавар - Homework time
  * Finish him, Fatality! - https://www.oracletutorial.com/oracle-basics/
  * Let's talk about certification
  * Guide for Juniors - Write your query experience on CV/Resume
@@ -92,4 +92,7 @@
   https://docs.oracle.com/en/database/oracle/oracle-database/index.html
   
   
-  Example: https://dbfiddle.uk/k26Sg7fD
+Queries
+https://dbfiddle.uk/k26Sg7fD
+
+These text written by VR116. If U 💚 this, Give me cup of coffee 
