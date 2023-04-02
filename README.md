@@ -1,11 +1,9 @@
-# SQL-Developer-VR-Guide
-
-## SQL Developer дээр үр дүнтэй ажиллах тухай
+# SQL Developer дээр үр дүнтэй ажиллах тухай
 
 # SQL Developer ашиглах шалтгаан
-  a. SQL гэж юу вэ? Яагаад ашигладаг вэ?
-  b. Тэгвэл яагаад Oracle SQL гэж?
-  c. SQL Developer л ашиглах юм уу?
+  ## a. SQL гэж юу вэ? Яагаад ашигладаг вэ?
+  ## b. Тэгвэл яагаад Oracle SQL гэж?
+  ## c. SQL Developer л ашиглах юм уу?
 
 # SQL + EIS буюу Enterprise Innovation Studio (aka. Platform)
 * Дата-ны тухай — What is data categories?
@@ -34,15 +32,15 @@
 * Explain Plan
 
 # Query-тэй наадах нь — Play with SQL query
-  a. ANSI/Oracle JOIN 
-  b. Insert bulk data
-  c. UPDATE -> MERGE
-  d. Timestamp or Restore point
-  e. Cool usage of WITH AS
-  f. Advanced Subquery
-  g. RANK, DENSE_RANK, ROWNUM usage
-  h. PIVOT / UNPIVOT
-  ALIAS usage
+  * ANSI/Oracle JOIN 
+  * Insert bulk data
+  * UPDATE -> MERGE
+  * Timestamp or Restore point
+  * Cool usage of WITH AS
+  * Advanced Subquery
+  * RANK, DENSE_RANK, ROWNUM usage
+  * PIVOT / UNPIVOT
+  * ALIAS usage
   
 
 # Conclusion - Дүгнэлт
