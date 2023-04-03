@@ -1,4 +1,3 @@
-**START**
 ---
 
 # 🟡 SECTION ONE
@@ -69,4 +68,3 @@
  * Contribution on community
 
 ---
-**END**
