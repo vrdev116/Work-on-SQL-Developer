@@ -50,3 +50,189 @@ https://dev.veritech.mn/
 https://join.skype.com/RRSI6XiwG0pw
 https://discord.gg/gSYXXftz
 https://developer.interactive.mn/
+
+
+
+---
+
+PRESENTATION NOTES
+
+SQL Developer feature
+https://www.oracle.com/database/sqldeveloper/
+Эндээс хамгийн сүүлийн үеийн хувилбар татах боломжтой. Мөн feature-н талаар эндээс судлаарай.  Илүү дэлгэрэнгүй албан ёсны мэдээлэл байгаа.
+
+a. Үндсэн
+
+CLI
+    Command Line ажиллуулах боломжтой. Sys Admin, DBA admin-ууд console-с SELECT хийж харах кэйс байдаг.  SQL*Plus Command-line
+
+Interface
+    Desktop Software - Interface энгийн, хялбар
+    Window - Reset Windows to Factory Setting -> Default харагдац руу буцаах
+    Drag Drop боломжтой
+    VIEW (Show Toolbars) цэснээс харагдац нуух боломжтой. 
+    Window position, split
+
+Worksheet
+    Run (ctrl+enter)
+    Run Script F5
+    Explain Plan F10
+    Commit F11
+    Rollback F12
+    New unshared worksheet (ctrl+shift+N)
+    Clear (ctrl+d)
+    History F8
+    Change case (alt+quote ')
+    Change worksheet name ->   set worksheetname name 
+
+Query Builder
+    SELECT * FROM HRM_CITY C
+    LEFT JOIN HRM_DISTRICT D ON D.CITY_ID = C.CITY_ID
+    Run query and go to Query Builder - Select checkboxes - Go to worksheet to see result
+
+Asterisk - Completion
+Auto completion - Write alias dot  (ctrl+space)
+
+Results
+    Pin result 
+    Single Record View
+    Count row
+    Highlight
+    Export
+    Create Report (View - Reports)
+    Result Filter
+    Persistence Setting (Autofit, Sort)
+    Zebra stripe
+    (null) style
+
+Change connection right header combo - Check data of multiple connection / Dev and customer query result check
+
+Connections (xml+json) ->  Senior - VR - Table management
+    Folder
+    Connection name and color
+    Group by button
+    Navigation Filter (Tools - Preference)
+
+Tools - Preference
+    Enviroment
+    Encoding - UTF-8
+
+b. Нэмэлт
+Shortcut keys (Tools - Preference)
+Show object (ctrl click on table name)
+Code template 
+Snippet
+Report - Refresh
+History
+Find object
+Margin line, Font, Line number
+Code editor - Format
+Bookmarking
+Go to
+Commenting
+Explain Plan
+
+
+Query бичих
+ANSI/Oracle JOIN
+
+Multiple WITH AS
+WITH  USER_INFO AS (
+/* Ажилтны мэдээлэл*/
+SELECT  UU.USER_ID,
+        SUBSTR (HE.LAST_NAME, 0, 2)
+                || '.'
+                || HE.FIRST_NAME AS USER_NAME
+FROM UM_USER UU
+LEFT JOIN UM_SYSTEM_USER USU ON USU.USER_ID = UU.SYSTEM_USER_ID
+LEFT JOIN HRM_EMPLOYEE HE ON HE.PERSON_ID = USU.PERSON_ID
+)
+SELECT 
+B.BOOK_NUMBER,
+CUS.USER_NAME AS CREATED_USER_NAME, /*Үүсгэсэн USER INFO*/
+MUS.USER_NAME AS MODIFIED_USER_NAME /*Зассан USER INFO*/
+FROM INT_ORDER_BOOK B
+LEFT JOIN USER_INFO CUS ON CUS.USER_ID = B.CREATED_USER_ID /*Үүсгэсэн USER INFO*/
+LEFT JOIN USER_INFO MUS ON MUS.USER_ID = B.MODIFIED_USER_ID /*Зассан USER INFO*/
+
+Subquery and subquery
+Usage of ALIAS
+WITH A AS (
+	SELECT 1 AS ID,
+	       'A1' AS NAME
+	FROM DUAL
+	UNION
+	SELECT 2 AS ID,
+	       'A2' AS NAME
+	FROM DUAL
+	UNION
+	SELECT 3 AS ID,
+	       'A3' AS NAME
+	FROM DUAL
+), B AS (
+	SELECT 1 AS ID,
+	       'B1' AS NAME
+	FROM DUAL
+	UNION
+	SELECT 2 AS ID,
+	       'B2' AS NAME
+	FROM DUAL
+	UNION
+	SELECT 3 AS ID,
+	       'B3' AS NAME
+	FROM DUAL
+), C AS (
+	SELECT 1 AS ID,
+	       'C1' AS NAME
+	FROM DUAL
+	UNION
+	SELECT 2 AS ID,
+	       'C2' AS NAME
+	FROM DUAL
+	UNION
+	SELECT 3 AS ID,
+	       'C3' AS NAME
+	FROM DUAL
+)
+SELECT A.ID,
+       A.NAME AS A_NAME,
+       B.NAME AS B_NAME,
+       (
+	       SELECT C.NAME
+	       FROM C
+	       WHERE  C.NAME = 'C2'
+       ) AS C_NAME
+FROM A
+LEFT JOIN B ON B.ID = A.ID;
+
+
+Advanced usage of ROWNUM
+SELECT ROWNUM R
+FROM DUAL CONNECT BY
+	ROWNUM <= 100
+
+
+Hierarchical query or Analytical query
+Case of UNPIVOT
+PIVOT - UNPIVOT -> нэг мөрөнд олон утга орсон үед буцааж задлах
+
+When WHERE?
+
+Read EXPLAIN PLAN
+F10 read these - research
+
+Өгөгдөл дээр ажиллах
+
+Bulk data
+INSERT INTO 
+SELECT [QUERY]
+
+Update or Merge?
+MERGE FUNCTION
+
+Risk mitigation on data
+    Local history
+    Undo history
+    Timestamp
+    RESTORE POINT
+    https://docs.oracle.com/database/121/SQLRF/statements_6013.htm
