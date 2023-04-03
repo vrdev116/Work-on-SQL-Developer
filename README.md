@@ -1,4 +1,4 @@
----
+**SQL Developer дээр ажиллах**
 
 # 🟡 SECTION ONE
 
@@ -67,4 +67,3 @@
  * Talk about certification
  * Contribution on community
 
----
