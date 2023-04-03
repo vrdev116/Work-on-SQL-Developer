@@ -44,7 +44,7 @@
   * ANSI/Oracle JOIN 
   * Subquery and subquery
   * Multiple WITH AS
-  * Uncommon usage of ALIAS
+  * Usage of ALIAS
   * Advanced usage of ROWNUM
   * Hierarchical query or Analytical query
   * Case of UNPIVOT
