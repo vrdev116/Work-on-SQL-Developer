@@ -60,8 +60,6 @@
 # 🔴 SECTION FOUR
 
 ## Дүгнэлт
-
-### HW
  * Learn sources
  * Experience on paper
  * Talk about certification
